@@ -1,1 +1,2 @@
-# projeto javascript
+# projeto-da-Alura-batalha-de-cartas
+
